@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">HealthWithMe</string>
+    <string name="slogan">True Wealth is Health</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <!--register information-->
+    <string name="username">Username :</string>
+    <string name="password">Password :</string>
+    <string name="email">Email :</string>
+    <string name="gender">Gender :</string>
+    <string name="height">Height (cm) :</string>
+    <string name="weight">Weight (kg) :</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">xxx@xxx.com</string>
+    <string name="hint_gender">Female / Male</string>
+    <string name="hint_height">165</string>
+    <string name="hint_weight">60</string>
+    <string name="registered">Already have an account ?</string>
+    <string name="new_user">Create New Account?</string>
+    <string name="forgot">Forgot Password ?</string>
+    <!--register end-->
+
+    <!--  home page   -->
+    <string name="water">Drink Water Reminder</string>
+    <string name="calories">Calorie Recorder</string>
+    <string name="exercise">Exercise Recorder</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <!--  home page end-->
+
+    <!--  Profile Page-->
+    <string name="PersonalInfo">Personal Information</string>
+    <string name="Height">Height :</string>
+    <string name="Weight">Weight :</string>
+    <string name="BMI">BMI :</string>
+    <string name="kgm">kg/m</string>
+    <string name="status">Status :</string>
+    <string name="ReminderSetting">Reminder Settings</string>
+    <string name="DrinkReminder">Drink Water Reminder</string>
+    <string name="BreakfastReminder">Record Breakfast Calorie</string>
+    <string name="LunchReminder">Record Lunch Calorie</string>
+    <string name="DinnerReminder">Record Dinner Calorie</string>
+    <string name="ExerciseReminder">Exercise Reminder</string>
+    <string name="waterSetting">Water Reminder Settings</string>
+    <string name="intakeGoal">Intake Goal :</string>
+    <string name="reminderTime">Reminder Time :</string>
+    <string name="calorieSetting">Calorie Reminder Settings</string>
+    <string name="BreakTime">Breakfast Record Time</string>
+    <string name="LunchTime">Lunch Record Time</string>
+    <string name="DinnerTime">Dinner Record Time</string>
+    <string name="exerciseSetting">Exercise Reminder Settings</string>
+    <string name="DrinkTarget">Daily Drink Target</string>
+
+
+</resources>
